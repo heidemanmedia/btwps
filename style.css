@@ -1,0 +1,117 @@
+/* 
+Theme Name: BSWPS
+Theme URI: http://www.heideman-media.nl/BSWPstart
+Description: Responsive starters theme
+Version: 0.1
+Author: Maarten Heideman
+Author URI: http://www.heideman-media.nl
+Tags: Responsive, starters
+*/ 
+
+body{
+  margin: 0px;
+}
+
+/*
+TYPOGRAPHY
+*/
+h1,
+h2,
+h3,
+h4,
+h5{
+	font-family:  ;
+}
+
+h1{
+	/* PAGE & POST TITLE */
+	font-size: 3.0em;
+}
+h2{
+	/* CATEGORY LIST TITLES */
+	font-size: 1.75em;
+}
+h3{
+	/* WIDGET TITLE */
+	font-size: 1.75em;
+}
+h4{
+	/* GALLERY POST TITLE*/
+	font-size: 1.75em;
+	
+}
+h5{
+	/* FOOTER WIDGET TITLE*/
+	font-size: 1.75em;
+	
+}
+p{
+	font-family: ;
+	font-size: 1.0em;
+}
+
+/*
+NAVIGATION
+*/
+.navbar{
+	margin: 0px;
+	width: 100%;
+}
+.navbar-inner{
+	/*background: none;
+	border: none;
+	box-shadow: none;
+	filter: none;
+	padding:0px;*/
+}
+.navbar-inverse .navbar-inner{
+	background: none;
+}
+.navbar .navbar-inner .nav li a{
+	text-shadow: none;
+}
+.navbar .navbar-inner ul.nav{
+	float: left;
+}
+.navbar .navbar-inner .nav li a:hover{
+	text-shadow: none;
+}
+.current-menu-item{
+
+}
+
+/*
+NAVIGATION COLLAPSE
+*/
+.nav-collapse.collapse{
+	background-color: #556270;
+
+}
+
+.navbar .navbar-inner .container, .menuhouder{
+	padding:0px 10px 0px 10px;
+	background: none;
+}
+
+
+/*
+CONTENT
+*/
+
+
+/*
+FOOTER
+*/
+.footer{
+	background-color: #f5f5f5;
+}
+
+
+/*
+CSS FOR PLUGINS
+*/
+
+
+
+
+
